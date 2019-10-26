@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 CHENGDU-->GUANGZHOU-->BEIJING-->SAN FRANCISCO-->NEW YORK-->CHICAGO   
-Product Manager, Data Scientist, Developer, Writer.   
+PRODUCT MANAGER, DATA SCIENTIST, DEVELOPER, WRITER.   
 I believe coding and literature are the most achievable/affordable ways of creativity for everybody.
 
 ### More Information
