@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+CHENGDU-->GUANGZHOU-->BEIJING-->SAN FRANCISCO-->NEW YORK-->CHICAGO   
+Product Manager, Data Scientist, Developer, Writer.   
+I believe coding and literature are the most achievable/affordable ways of creativity for everybody.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I love people.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[auyeungling@gmail.com](mailto:auyeungling@gmail.com)
