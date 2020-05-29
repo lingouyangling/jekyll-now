@@ -4,13 +4,12 @@ title: About
 permalink: /about/
 ---
 
-CHENGDU-->GUANGZHOU-->BEIJING-->SAN FRANCISCO-->NEW YORK-->CHICAGO   
-PRODUCT MANAGER, DATA SCIENTIST, DEVELOPER, WRITER.   
-I believe coding and literature are the most achievable/affordable ways of creativity for everybody.
+CHENGDU-->GUANGZHOU-->BEIJING-->SAN FRANCISCO-->NEW YORK-->CHICAGO    
+I believe coding and writing are the most achievable/affordable ways of creativity for everybody.
 
 ### More Information
 
-I love people.
+I love philosophy and literature.
 
 ### Contact me
 
